@@ -1,1 +1,0 @@
-# Build-a-Container-Image-for-a-Python-Vote-App
